@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/React-card-comments/static/js/main.6d0cc66d.chunk.js",
+    "main.js.map": "/React-card-comments/static/js/main.6d0cc66d.chunk.js.map",
+    "runtime-main.js": "/React-card-comments/static/js/runtime-main.75c6fe4a.js",
+    "runtime-main.js.map": "/React-card-comments/static/js/runtime-main.75c6fe4a.js.map",
+    "static/js/2.83934e26.chunk.js": "/React-card-comments/static/js/2.83934e26.chunk.js",
+    "static/js/2.83934e26.chunk.js.map": "/React-card-comments/static/js/2.83934e26.chunk.js.map",
+    "index.html": "/React-card-comments/index.html",
+    "precache-manifest.6482e858d44b304b3175f9c12b1df113.js": "/React-card-comments/precache-manifest.6482e858d44b304b3175f9c12b1df113.js",
+    "service-worker.js": "/React-card-comments/service-worker.js",
+    "static/js/2.83934e26.chunk.js.LICENSE.txt": "/React-card-comments/static/js/2.83934e26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75c6fe4a.js",
+    "static/js/2.83934e26.chunk.js",
+    "static/js/main.6d0cc66d.chunk.js"
+  ]
+}
